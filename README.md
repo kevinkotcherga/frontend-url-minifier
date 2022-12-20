@@ -33,4 +33,3 @@ gh repo create
 
 npm i
 ```
-# frontend-url-minifier
